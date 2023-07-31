@@ -1,0 +1,115 @@
+.img{
+    /* ابعاد الصورة */
+    width:1256px;
+    height: 960px;
+
+}
+.img1{
+    /* اكلام الي وسط الصورة */
+    position: absolute;
+    top: 100%;
+    color: rgb(255, 255, 255)ede;
+    padding-left: 280px;
+    font-style:inherit;
+    font-size:100px;
+    
+    color: #ffffff;
+    
+}
+.margin{
+    margin-bottom: 100px;
+    font-weight:400;
+    
+
+}
+
+.marginicons1{
+    padding-right: 50px;
+     margin-top: 40px;
+}
+.marginicons2{
+   margin-left: 35%;
+   
+}
+
+
+
+.text{
+
+padding :2cqb;
+margin-top: 5%;
+font-style:normal ;
+font-weight: 600;
+
+
+}
+
+.text2{
+    padding: auto;
+    margin-bottom: -30px;
+    margin-left: 42%;
+    font-weight: 700;
+}
+.text3{
+   
+    
+    margin-left: 42%;
+    margin-bottom: 100px;
+    font-weight: 700;
+}
+.text4{
+   
+    margin-top: 50px;
+    margin-bottom: -35px;
+    margin-left: 49%;
+    
+    font-weight: 700;
+}
+.text5{
+   
+    
+    margin-left: 49%;
+    margin-top: -118px;
+    font-weight: 700;
+}
+.text6{
+   
+    
+    margin-left: 57%;
+    margin-top: -105px;
+    font-weight: 700;
+}
+.text7{
+   
+    
+    margin-left: 58%;
+    margin-top: 55px;
+    font-weight: 700;
+}
+.text8{
+    font-weight: 300;
+}
+
+
+
+.vertical { 
+     margin-top: -190px;
+    border-left: 2px solid rgba(0, 0, 0, 0.347);
+    height: 90px;
+    position:absolute;
+    left: 46%;
+  
+}
+.vertical1 { 
+    margin-top: -105px;
+   border-left: 2px solid rgba(0, 0, 0, 0.347);
+   height: 90px;
+   position:absolute;
+   right: 45%;
+}
+
+  hr { width:100%; 
+    height:1px; 
+    
+    margin-top: 50px;
+    background: #121212  }
